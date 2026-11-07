@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="278" viewBox="0 0 800 278" role="img" aria-label="Terminal: mantel status shows a connected RAM-only node with post-quantum tunnel">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0e1412"/><stop offset="1" stop-color="#0b0f0e"/></linearGradient>
+<radialGradient id="glow" cx="0.85" cy="0" r="0.7"><stop offset="0" stop-color="#2fbf8a" stop-opacity="0.10"/><stop offset="1" stop-color="#2fbf8a" stop-opacity="0"/></radialGradient>
+<clipPath id="c1"><rect x="42.0" y="55" width="0" height="24"><animate attributeName="width" values="0.0;9.0;18.0;27.0;36.0;45.0;54.0;800" calcMode="discrete" begin="0.60s" dur="0.49s" fill="freeze"/></rect></clipPath><clipPath id="c2"><rect x="42.0" y="111" width="0" height="24"><animate attributeName="width" values="0.0;9.0;18.0;27.0;36.0;45.0;54.0;63.0;72.0;81.0;90.0;99.0;108.0;117.0;800" calcMode="discrete" begin="2.09s" dur="0.98s" fill="freeze"/></rect></clipPath>
+</defs>
+<rect x="0.5" y="0.5" width="799" height="277" rx="14" fill="url(#bg)" stroke="#1e2a26"/>
+<rect x="0.5" y="0.5" width="799" height="277" rx="14" fill="url(#glow)"/>
+<path d="M14.5 0.5h771a14 14 0 0 1 14 14V38H0.5V14.5a14 14 0 0 1 14-14z" fill="#121a17"/>
+<line x1="1" y1="38" x2="799" y2="38" stroke="#1e2a26"/>
+<circle cx="24" cy="19" r="6" fill="#2a3531"/><circle cx="44" cy="19" r="6" fill="#2a3531"/><circle cx="64" cy="19" r="6" fill="#2a3531"/>
+<text x="400" y="24" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#7d8590">calebsexy@mantel: ~</text>
+<g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="15">
+<g opacity="0"><set attributeName="opacity" to="1" begin="0.30s" fill="freeze"/><text x="24" y="72" fill="#2fbf8a">$</text><text x="42.0" y="72" fill="#e6edf3" clip-path="url(#c1)">whoami</text><rect x="42.0" y="58" width="9" height="18" fill="#2fbf8a" opacity="0.85"><animate attributeName="x" values="42.0;51.0;60.0;69.0;78.0;87.0;96.0" calcMode="discrete" begin="0.60s" dur="0.49s" fill="freeze"/><set attributeName="opacity" to="0" begin="1.47s" fill="freeze"/></rect></g>
+<g opacity="0"><set attributeName="opacity" to="1" begin="1.47s" fill="freeze"/><text x="24" y="96" fill="#e6edf3">building <tspan fill="#2fbf8a" font-weight="700">Mantel</tspan><tspan fill="#7d8590"> — </tspan>private VPN, no email sign-up</text></g>
+<g opacity="0"><set attributeName="opacity" to="1" begin="1.79s" fill="freeze"/><text x="24" y="128" fill="#2fbf8a">$</text><text x="42.0" y="128" fill="#e6edf3" clip-path="url(#c2)">mantel status</text><rect x="42.0" y="114" width="9" height="18" fill="#2fbf8a" opacity="0.85"><animate attributeName="x" values="42.0;51.0;60.0;69.0;78.0;87.0;96.0;105.0;114.0;123.0;132.0;141.0;150.0;159.0" calcMode="discrete" begin="2.09s" dur="0.98s" fill="freeze"/><set attributeName="opacity" to="0" begin="3.45s" fill="freeze"/></rect></g>
+<g opacity="0"><set attributeName="opacity" to="1" begin="3.45s" fill="freeze"/><text x="24" y="152"><tspan fill="#2fbf8a">●</tspan><tspan fill="#2fbf8a" font-weight="700"> Connected</tspan></text><text x="177.0" y="152" fill="#e6edf3">Hongkong-2</text></g>
+<g opacity="0"><set attributeName="opacity" to="1" begin="3.57s" fill="freeze"/><text x="42.0" y="176" fill="#7d8590">node</text><text x="177.0" y="176" fill="#e6edf3">RAM-only <tspan fill="#7d8590">· stboot, signed image</tspan></text></g>
+<g opacity="0"><set attributeName="opacity" to="1" begin="3.69s" fill="freeze"/><text x="42.0" y="200" fill="#7d8590">tunnel</text><text x="177.0" y="200" fill="#e6edf3">WireGuard + post-quantum <tspan fill="#2fbf8a">✓</tspan></text></g>
+<g opacity="0"><set attributeName="opacity" to="1" begin="3.81s" fill="freeze"/><text x="42.0" y="224" fill="#7d8590">port</text><text x="177.0" y="224" fill="#e6edf3">41234 <tspan fill="#2fbf8a">open</tspan></text></g>
+<g opacity="0"><set attributeName="opacity" to="1" begin="4.23s" fill="freeze"/><text x="24" y="248" fill="#2fbf8a">$</text><rect x="42.0" y="234" width="9" height="18" fill="#2fbf8a"><animate attributeName="opacity" values="1;0" calcMode="discrete" dur="1.1s" begin="4.23s" repeatCount="indefinite"/></rect></g>
+</g>
+</svg>
