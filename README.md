@@ -1,6 +1,15 @@
 # Hi, I'm Luke 👋
 
-Software developer from Germany. I build backends, web apps and tooling, and I care about clean, simple and reliable code.
+Software developer from Germany. I build backends, web and mobile apps, and care about clean, simple and reliable code.
+
+## Work
+
+- 🏢 Developer @ [mantelvpn.com](https://mantelvpn.com), part of the [Mantel-Collective-LLC](https://github.com/Mantel-Collective-LLC) organization
+- 📱 [mantel-android](https://github.com/Mantel-Collective-LLC/mantel-android): Android app built with WireGuard and Capacitor
+
+## Projects
+
+- 🌐 [vela](https://github.com/calebsexy/vela): fast, minimal browser with isolated multi-session "Spaces" (Electron + React), my fork of [Aepzie/vela](https://github.com/Aepzie/vela)
 
 ## Tech stack
 
@@ -14,13 +23,3 @@ Software developer from Germany. I build backends, web apps and tooling, and I c
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-## What I work on
-
-- Backend services and APIs
-- Web and mobile apps
-- Linux servers, Docker and deployment
-
-## Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=calebsexy&show_icons=true&theme=github_dark&hide_border=true)
