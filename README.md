@@ -1,60 +1,26 @@
-<div align="center">
-  <a href="https://mantelvpn.com"><img src="assets/logo.png" width="72" height="72" alt="Mantel logo"></a>
-  <h3>Mantel</h3>
-  <sub>Private VPN · no email sign-up · <a href="https://mantelvpn.com">mantelvpn.com</a></sub>
-  <br><br>
-  <img src="assets/terminal.svg" width="800" alt="Terminal: whoami prints building Mantel, mantel status shows a connected RAM-only node with post-quantum tunnel">
-</div>
+# Hi, I'm Luke 👋
 
-<div align="center"><img src="assets/divider.svg" width="800" alt=""></div>
+Software developer from Germany. I build backends, web apps and tooling, and I care about clean, simple and reliable code.
 
-<div align="center">
-  <h3>ENGINEERING STACK</h3>
-  <img src="https://cdn.simpleicons.org/go/00add8" width="44" height="44" alt="Go" title="Go">&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/typescript/3178c6" width="44" height="44" alt="TypeScript" title="TypeScript">&nbsp;&nbsp;&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/ffffff">
-    <img src="https://cdn.simpleicons.org/nextdotjs/000000" width="44" height="44" alt="Next.js" title="Next.js">
-  </picture>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/react/61dafb" width="44" height="44" alt="React" title="React">&nbsp;&nbsp;&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/rust/ffffff">
-    <img src="https://cdn.simpleicons.org/rust/000000" width="44" height="44" alt="Rust" title="Rust">
-  </picture>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/tauri/24c8d8" width="44" height="44" alt="Tauri" title="Tauri">&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/kotlin/7f52ff" width="44" height="44" alt="Kotlin" title="Kotlin">&nbsp;&nbsp;&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/wireguard/ffffff">
-    <img src="https://cdn.simpleicons.org/wireguard/88171a" width="44" height="44" alt="WireGuard" title="WireGuard">
-  </picture>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/linux/fcc624" width="44" height="44" alt="Linux" title="Linux">&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/docker/2496ed" width="44" height="44" alt="Docker" title="Docker">&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/nginx/009639" width="44" height="44" alt="nginx" title="nginx">&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/cloudflare/f38020" width="44" height="44" alt="Cloudflare" title="Cloudflare">&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/git/f05032" width="44" height="44" alt="Git" title="Git">
-  <br><br>
-</div>
+## Tech stack
 
-<div align="center"><img src="assets/divider.svg" width="800" alt=""></div>
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<div align="center">
-  <h3>FEATURED PROJECTS</h3>
-  <a href="https://mantelvpn.com"><img src="assets/projects.svg" width="800" alt="Mantel VPN, RAM-only nodes, post-quantum tunnel (beta), port forwarding, Telegram bot @mantelvpnbot"></a>
-</div>
+## What I work on
 
-<div align="center"><img src="assets/divider.svg" width="800" alt=""></div>
+- Backend services and APIs
+- Web and mobile apps
+- Linux servers, Docker and deployment
 
-<div align="center">
-  <h3>STATUS</h3>
-  <a href="https://mantelvpn.com/en/status"><img src="assets/status.svg" width="800" alt="Live status of every Mantel node at mantelvpn.com/en/status"></a>
-</div>
+## Stats
 
-<div align="center"><img src="assets/divider.svg" width="800" alt=""></div>
-
-<div align="center">
-  <a href="https://mantelvpn.com"><b>Website</b></a> &nbsp;·&nbsp;
-  <a href="https://mantelvpn.com/en/status"><b>Status</b></a> &nbsp;·&nbsp;
-  <a href="https://mantelvpn.com/news"><b>News</b></a> &nbsp;·&nbsp;
-  <a href="https://t.me/mantelvpnbot"><b>Telegram</b></a> &nbsp;·&nbsp;
-  <a href="https://mantelvpn.com/en/security"><b>Security</b></a>
-</div>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=calebsexy&show_icons=true&theme=github_dark&hide_border=true)
