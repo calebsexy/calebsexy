@@ -5,7 +5,6 @@ Software developer from Germany. I build backends, web and mobile apps, and care
 ## Work
 
 - 🏢 Developer @ [mantelvpn.com](https://mantelvpn.com), part of the [Mantel-Collective-LLC](https://github.com/Mantel-Collective-LLC) organization
-- 📱 [mantel-android](https://github.com/Mantel-Collective-LLC/mantel-android): Android app built with WireGuard and Capacitor
 - 🌐 Developer on [vela](https://github.com/Aepzie/vela): fast, minimal browser with isolated multi-session "Spaces" (Electron + React)
 
 ## Tech stack
