@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="28" viewBox="0 0 800 28" role="img" aria-label="divider">
-<defs><linearGradient id="d" x1="0" x2="1"><stop offset="0" stop-color="#0f9d6b" stop-opacity="0"/><stop offset="0.5" stop-color="#0f9d6b" stop-opacity="0.9"/><stop offset="1" stop-color="#0f9d6b" stop-opacity="0"/></linearGradient></defs>
-<rect x="40" y="13.5" width="720" height="1" fill="url(#d)"/>
-<rect x="395" y="9" width="10" height="10" rx="2" transform="rotate(45 400 14)" fill="none" stroke="#0f9d6b" stroke-width="1.2"/>
-<circle cx="400" cy="14" r="1.8" fill="#0f9d6b"/>
-</svg>
